@@ -16,6 +16,7 @@ This is the top-level repo for the TOPMed RNA-seq paper.
 
 # Processing of external data
 * [Pre-process eQTLGen data](https://github.com/porchard/topmed-eqtlgen-preprocessing)
+* [Pre-process DIRECT data](https://github.com/porchard/topmed-direct-preprocessing)
 * [Finemap PanUKBB GWAS](https://github.com/porchard/panukbb-finemapping)
 * [Pre-process GTEx data and coloc w/ PanUKBB GWAS](https://github.com/porchard/topmed-gtex-preprocessing)
 
