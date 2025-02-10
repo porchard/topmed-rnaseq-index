@@ -24,7 +24,7 @@ This is the top-level repo for the TOPMed RNA-seq paper.
 # Post-scan processing
 
 * [Run motif scans](https://github.com/porchard/topmed-motif-scanning)
-* [Run other intermediate processing steps](https://github.com/porchard/topmed-intermediate-processing)
+* [Run other intermediate processing steps](https://github.com/porchard/topmed-rnaseq-paper-intermediate-processing)
 
 # Figures
-* [Code for generating figures is here](https://github.com/porchard/topmed-rnaseq-paper-figures)
+* [Code for generating figures is here](https://github.com/porchard/topmed-rnaseq-paper-figures-2025)
